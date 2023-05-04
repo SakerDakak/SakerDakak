@@ -2,8 +2,8 @@
 [![](https://visitcount.itsvg.in/api?id=SakerDakak&icon=6&color=9)](https://visitcount.itsvg.in)
 <br>
 ![snake gif](https://raw.githubusercontent.com/SakerDakak/SakerDakak/18c8e620265b49dbcc664d11c6dd0cb88a2a87fd/Images/github-snake.svg)
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+<!-- # 💫 About Me:
+🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact -->
 
 
 ## 🌐 Socials:
